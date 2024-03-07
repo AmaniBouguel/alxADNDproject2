@@ -1,7 +1,7 @@
 # ALX Data Analysis Project2 Readme
 
 ## Introduction
-This project was developed as a part of ALX Africa-Udacity Data Analysis NanoDegree. It aims to make into practice acquired knowledge about data wrangling. </br>
+This project was developed as a part of ALX Africa-Udacity Data Analysis NanoDegree Scholarship. It aims to make into practice acquired knowledge about data wrangling. </br>
 The main task in the project was gathering data, assessing it then cleaning it. Data is composed from different dataset of different sources. It is not clean at all. Hence, it was asked to find only 8 quality issues and 2 order issues. </br>
 After cleaning Data, we need to store it and to draw some visualization to explore data
 
